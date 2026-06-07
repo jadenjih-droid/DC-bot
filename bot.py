@@ -1,1 +1,3 @@
-sfiusgu
+import discord
+
+print("Hello")
